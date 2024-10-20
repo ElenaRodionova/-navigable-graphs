@@ -28,3 +28,8 @@ HNSW из файла
 
 recall остался 1.0, снизилось avg calc
 
+```
+python test-hnsw.py --dataset synthetic --K 20 --k 5 --dim 3 --n 500 --nq 100 --ef 20 --M 32 --M0 64
+```
+![image](https://github.com/user-attachments/assets/4c95f77f-cf69-42ff-b8f6-608bea28fab7)
+
