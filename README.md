@@ -13,6 +13,7 @@ HNSW из файла
 модернизированный HNSW
 ![image](https://github.com/user-attachments/assets/bdbfdfff-1d8f-4d1f-ac1a-6d012e7c76a5)
 
+Немного повысился recall, снизилось avg calc
 
 Использование синтетических данных с 3D-векторами:
 ```
@@ -24,4 +25,6 @@ HNSW из файла
 
 модернизированный HNSW
 ![image](https://github.com/user-attachments/assets/06170f24-0e00-4159-9880-055d5a2671aa)
+
+recall остался 1.0, снизилось avg calc
 
